@@ -1,2 +1,2 @@
-# smartbrain-api
-smart brain project - back end 
+# smartbrain-backend
+back-end folder for face detecting project
